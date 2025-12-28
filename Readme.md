@@ -1,7 +1,14 @@
-Employee Attrition Analysis | Power BI & Python
+# Employee Attrition Analysis | Power BI & Python
 
-Dashboard Preview  
-Dashboard
+## Dashboard Preview  
+### Overview Page
+![Overview Dashboard](images/Overview.png)
+
+### Demographics Page
+![Demographics Dashboard](images/demographics.png)
+
+### Job & Work Factors Page
+![Job Factors Dashboard](images/job_factor.png)
 
 ---
 
