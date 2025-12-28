@@ -81,19 +81,6 @@ The Power BI dashboard includes:
 
 ---
 
-
-## 🖼 Dashboard Screenshots
-
-### Overview Page
-![Overview Dashboard](images\Overview.png)
-
-### Demographics Page
-![Demographics Dashboard](images\demographics.png)
-
-### Job & Work Factors Page
-![Job Factors Dashboard](images\job_factor.png)
-
----
 ## Key Insights
 - Employees working overtime exhibit significantly higher attrition
 - Majority of attrition occurs within the first 2–3 years of employment
